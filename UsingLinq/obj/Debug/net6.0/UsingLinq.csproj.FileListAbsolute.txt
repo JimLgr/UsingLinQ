@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\bin\Debug\net6.0\UsingLinq.exe
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\bin\Debug\net6.0\UsingLinq.deps.json
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\bin\Debug\net6.0\UsingLinq.runtimeconfig.json
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\bin\Debug\net6.0\UsingLinq.dll
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\bin\Debug\net6.0\UsingLinq.pdb
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\obj\Debug\net6.0\UsingLinq.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\obj\Debug\net6.0\UsingLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\obj\Debug\net6.0\UsingLinq.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\obj\Debug\net6.0\UsingLinq.AssemblyInfo.cs
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\obj\Debug\net6.0\UsingLinq.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\obj\Debug\net6.0\UsingLinq.dll
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\obj\Debug\net6.0\refint\UsingLinq.dll
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\obj\Debug\net6.0\UsingLinq.pdb
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\obj\Debug\net6.0\UsingLinq.genruntimeconfig.cache
+C:\Users\pc\source\repos\UsingLinq\UsingLinq\obj\Debug\net6.0\ref\UsingLinq.dll
